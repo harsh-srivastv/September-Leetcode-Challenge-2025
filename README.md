@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1917-maximum-average-pass-ratio) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Greedy
 |  |
 | ------- |
@@ -13,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1917-maximum-average-pass-ratio) |
+## Math
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Sorting
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3830-find-closest-person) |
 ## Geometry
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

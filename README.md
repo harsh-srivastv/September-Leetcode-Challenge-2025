@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1917-maximum-average-pass-ratio) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |

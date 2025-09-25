@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0120-triangle) |
 | [1006-vowel-spellchecker](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0120-triangle) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |

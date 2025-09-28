@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1917-maximum-average-pass-ratio) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/harsh-srivastv/September-Leetcode-Challenge-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
